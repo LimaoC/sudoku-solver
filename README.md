@@ -1,4 +1,4 @@
-# SudokuSolver
+# sudoku-solver
 A sudoku solver using a recursive backtracking algorithm implemented in Python 3.
 
 ## Usage
